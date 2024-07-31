@@ -1,0 +1,17 @@
+.dashboard {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1em;
+    background: #f4f4f4;
+    border-radius: 5px;
+  }
+  
+  .dashboard h2 {
+    text-align: center;
+  }
+  
+  .user-info p {
+    margin: 0.5em 0;
+    font-size: 1.1em;
+  }
+  
